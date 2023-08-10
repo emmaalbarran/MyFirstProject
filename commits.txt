@@ -1,0 +1,7 @@
+emma@emma:~/Escritorio/bootcamp/MyFirstProject$ git log --oneline
+8a080f7 (HEAD -> main, origin/main) Agrego imagen con evidencia de commits
+ab46561 Edito archivos
+56a3126 Agrego archivo holamundo3.txt
+e6cac0d (dev) agrego holamundo-dev.txt dentro de la rama dev
+59ff93c agrego el archivo hola mundo.txt
+84cf3b5 Primer Commit
